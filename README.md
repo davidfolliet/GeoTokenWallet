@@ -13,15 +13,15 @@ Included:
 
 Executable Jar File: GeoTokenWallet.jar (double click to run)
 
-Project Source Code
+Project Source Code (src directory)
 
 Technical Document
 
-logos / banners
+logos / banners (these must be in a directory called img to compile)
 
 Not Included: 
 
-Settings Directory - contains api keys (If compiling from scratch user must put their own api keys in the files found in the settings folder)
+Settings Directory - contains api keys (If compiling from scratch user must create a directory called settings and put files called etheracan_api_key and infura_api_key inside the settings folder containing valid api keys)
 
 External libraries (hamcrest-core-1.3, junit-4.11, rxjava-1.3.6, JRE System Library)
 
