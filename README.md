@@ -11,7 +11,7 @@ JRE (Java Runtime Environmnet) required to run GeoToken Wallet
 
 Included:
 
-Executable Jar File (double click to run)
+Executable Jar File: GeoTokenWallet.jar (double click to run)
 
 Project Source Code
 
